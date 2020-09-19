@@ -41,10 +41,10 @@ body {
   background-image: url("img/icon-email.svg");
 }
 
-.header-phone {
+/*.header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
-}
+}*/
 
 .hero-image {
   margin-bottom: 480px;
@@ -183,7 +183,7 @@ body {
   background-image: url("img/icon-email.svg");
 }
 
-.footer-phone {
+/*.footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
-}
+}*/
